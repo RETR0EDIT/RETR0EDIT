@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0edit" alt="retr0edit" /></a> </p>
 
-- 📫 How to reach me **nolandallemolle@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@_nolandme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_nolandme_" height="30" width="40" /></a>
 <a href="https://discord.gg/_.retro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_.retro_" height="30" width="40" /></a>
 </p>
 
