@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RETRO EDIT</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retr0edit&label=Profile%20views&color=0e75b6&style=flat" alt="retr0edit" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=retr0edit" alt="retr0edit" /></a> </p>
 
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=retr0edit&show_icons=true&locale=en" alt="retr0edit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retr0edit&" alt="retr0edit" /></p>
+
